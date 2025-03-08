@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ a^2 \\frac{\\partial^2 u}{\\partial x^2} - \\frac{\\partial^2 u}{\\partial t^2} = 0 $$ $$ 25 \\frac{\\partial^2 u}{\\partial x^2} - \\frac{\\partial^2 u}{\\partial t^2} = 0 $$ $$ when\\ u(0,t)=0,\\ u(5,t)=0,\\ u(x,0)=x^4(5-x) $$ $$ by\\ initial\\ condition\\ \\ \\ \\frac{\\partial u}{\\partial y} = 0 $$ Find the distribution of u at x=1 and t = 0.2" ,
+      "qid": 1,
+      "option_a": "32",
+      "option_b": "24",
+      "option_c": "89",
+      "option_d": "71",
+      "correct_option": "b"
+   },
+   {
+      "question": "$$ a^2 \\frac{\\partial^2 u}{\\partial x^2} - \\frac{\\partial^2 u}{\\partial t^2} = 0 $$ $$ 9 \\frac{\\partial^2 u}{\\partial x^2} - \\frac{\\partial^2 u}{\\partial t^2} = 0 $$ $$ when\\ u(0,t)=0,\\ u(5,t)=0,\\ u(x,0)=x^4(5-x) $$ $$ by\\ initial\\ condition\\ \\ \\ \\frac{\\partial u}{\\partial y} = 0 $$ Find the distribution of u at x=2 and t = 0.33",
+      "qid": 2,
+      "option_a": "83",
+      "option_b": "4",
+      "option_c": "-24",
+      "option_d": "0",
+      "correct_option": "a"
+   }
+]

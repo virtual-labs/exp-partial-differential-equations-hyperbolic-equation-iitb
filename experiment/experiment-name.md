@@ -1,1 +1,1 @@
-## Experiment name
+## PDE: Hyperbolic Equation
